@@ -21,10 +21,6 @@ export default {
           to: { name: "coin-detail", params: { id: "bitcoin" } }
         },
         {
-          title: "ETH",
-          to: { name: "coin-detail", params: { id: "ethereum" } }
-        },
-        {
           title: "ADA",
           to: { name: "coin-detail", params: { id: "cardano" } }
         }
